@@ -74,3 +74,10 @@ layout: default
 　　计划从沙特去趟巴林或阿联酋？三大运营商都提供**海合会(GCC)区域漫游包**：
 
 *   **2025价格参考：** 约50-80 SAR/周，包含几个
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Saudi Arabia eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/saudi-arabia-data-plans)
